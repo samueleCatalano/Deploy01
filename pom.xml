@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.deploy01</groupId>
 	<artifactId>deploy01</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>deploy01</name>
 	<description>Develhope Exercise Spring</description>
 	<properties>
